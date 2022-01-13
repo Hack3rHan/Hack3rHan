@@ -3,7 +3,7 @@
 * 简介 About Me：
 
   - 我是Hack3rHan，一个从事安全研究的社畜，专注网络安全攻防技术研究（Red Team方向）。
-  - I'm Hack3rHan, a cyber security researcher and I focus on attack and defense technologies (Red Team).
+  - I'm Hack3rHan, a cybersecurity researcher and I focus on attack and defense technologies (Red Team).
 * 联系方式 Contact:
   - :bookmark: Blog: https://010.moe/
   - :mailbox: E-mail: Hack3rHan@protonmail.com
